@@ -1,5 +1,5 @@
-# Tesla-Stock-Prices-Analysis-EDA-
-Project Plan: Tesla Stock Price Analysis
+## Tesla-Stock-Prices-Analysis-EDA-
+#Project Plan: Tesla Stock Price Analysis
 1. Exploratory Data Analysis (EDA)
 
 Load and clean the dataset (check missing values, duplicates, date formatting).
@@ -27,42 +27,41 @@ Python (Pandas, Matplotlib, Seaborn, Plotly) → EDA + charts.
 Jupyter Notebook → Full analysis & documentation.
 
 Power BI (optional add-on) → Interactive dashboard for stock trends.
-📊 Tesla Stock Analysis Notebook Contents
 
-Data Loading & Cleaning
+##📊 Tesla Stock Analysis Notebook Contents
 
-Import libraries (pandas, matplotlib, seaborn).
+1. Data Loading & Cleaning
 
-Load the Tesla.xlsx file.
+-Import libraries (pandas, matplotlib, seaborn).
 
-Convert Date to datetime and check missing values.
+-Load the Tesla.xlsx file.
 
-Exploratory Data Analysis (EDA)
+-Convert Date to datetime and check missing values.
 
-Summary statistics (mean, max, min, volatility).
+2. Exploratory Data Analysis (EDA)
 
-Distribution of daily returns.
+-Summary statistics (mean, max, min, volatility).
 
-Highest and lowest stock prices.
+-Distribution of daily returns.
 
-Visualization Story
+-Highest and lowest stock prices.
 
-Closing price trend over time.
+3. Visualization Story
 
-Trading volume trend.
+-Closing price trend over time.
 
-Moving averages (30-day, 90-day).
+-Trading volume trend.
 
-High vs Low price ranges.
+-Moving averages (30-day, 90-day).
 
-Correlation heatmap between Open, High, Low, Close, Volume.
+-High vs Low price ranges.
 
-Growth Analysis
+-Correlation heatmap between Open, High, Low, Close, Volume.
 
-Calculate % growth of Tesla stock over the dataset period.
+4. Growth Analysis
 
-Compare against a second company (Apple, Amazon) if you’d like (I can integrate that later).
+-Calculate % growth of Tesla stock over the dataset period.
 
-Conclusion & Insights
+5. Conclusion & Insights
 
-Insights on Tesla’s volatility, long-term growth, and trading activity.
+-Insights on Tesla’s volatility, long-term growth, and trading activity.
